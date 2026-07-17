@@ -29,5 +29,3 @@ Good understanding of a higher-level architecture and be able to have reasonable
 Able to take long term consequences into consideration when making decisions.  
 Familiarity with technical debt, consequences of having it, and ideas how to avoid having it. 
 
-Talent Acquisition Specialist at Acunor
-Email   : Venka
